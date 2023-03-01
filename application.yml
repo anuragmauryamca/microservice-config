@@ -1,4 +1,8 @@
-eureka:
+spring:
+  application:
+    name: CONFIG-
+    
+eureka:Default
   instance:
     hostname: localhost
     ip-address: ture
